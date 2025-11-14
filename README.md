@@ -1,4 +1,4 @@
-# 👋 Halo, Saya [sefira dwi ningsih]!
+# 👋 Halo, Saya Sefira Dwi Ningsih
 Saya adalah siswa SMK Syafa’atul Ummah jurusan **Rekayasa Perangkat Lunak (RPL)**.  
 Saya suka belajar tentang pemrograman web, aplikasi, dan teknologi masa depan.
 
